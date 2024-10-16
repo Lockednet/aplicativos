@@ -232,10 +232,27 @@ section {
   background-size: 200% auto;
 }
 
+.miracle {
+  background-image: linear-gradient(to right, #232526 0%, #414345 51%, #232526 100%);
+  background-size: 200% auto;
+}
+
+.facebook {
+  background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%);
+  background-size: 200% auto;
+}
+
+.scanny {
+  background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%);
+  background-size: 200% auto;
+}
+
 .github:hover,
 .linkedin:hover,
 .facebook:hover,
-.instagram:hover {
+.instagram:hover,
+.miracle:hover,
+.scanny:hover {
   background-position: right center;
 }
 
